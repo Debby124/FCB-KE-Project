@@ -6,3 +6,8 @@ The primary source of data used here is Data.sale.cvs and this is an open source
 -Ms Excel for Data Cleaning.[Download here](https://microsoft.com)
 *Project overview*
 ---
+```
+Google Query Sheet
+SELECT*FROM TABLE 1
+WHERE CONDITION=MET
+```

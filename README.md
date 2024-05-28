@@ -12,3 +12,7 @@ SELECT*FROM TABLE 1
 WHERE CONDITION=MET
 ```
 ![](IMG_20240427_140831_236.jpg)
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Data 1|Data 2|Data 3|

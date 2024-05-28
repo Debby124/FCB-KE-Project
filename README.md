@@ -11,4 +11,4 @@ Google Query Sheet
 SELECT*FROM TABLE 1
 WHERE CONDITION=MET
 ```
-![](
+![](IMG_20240427_140831_236.jpg)
